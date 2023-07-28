@@ -80,6 +80,7 @@ html, body, p {
 .hero-image {
     width: 700px;
     height: 300px;
+    border-radius: .5rem;
 }
 
 .hero-text-button {
